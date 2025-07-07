@@ -197,7 +197,7 @@ MC Theme:
       ha-card-border-color: none
       ha-card-border-width: 0px
       ha-card-border-radius: 18px  # Kept border radius
-      ha-heading-card-title-font-size: "34px"
+      ha-heading-card-title-font-size: "24px"
       ha-heading-card-title-font-weight: 300
       ha-heading-card-title-line-height: "150%"
       border-radius: 18px  # Global border radius
