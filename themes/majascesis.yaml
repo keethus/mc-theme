@@ -250,7 +250,7 @@ MC Theme:
       # Progress bar
       ha-bar-background-color: var(--slider-track-color)
       # Mushroom Custom cards
-      mush-rgb-state-entity: 1, 90, 200
+      mush-rgb-state-entity: 179, 131, 86
       mush-rgb-green: 107, 124, 95
       mush-rgb-yellow: 200, 150, 10
       mush-rgb-orange: 200, 100, 10
