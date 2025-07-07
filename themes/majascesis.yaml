@@ -274,7 +274,7 @@ MC Theme:
       #RGB
       rgb-primary-text-color: 255, 255, 255
       rgb-primary-color: 255, 255, 255
-      rgb-accent-color: 0, 122, 255
+      rgb-accent-color: 107, 124, 95
       rgb-state-switch-color: var(--rgb-accent-color)
       rgb-state-light-color: var(--rgb-accent-color)
       rgb-state-fan-color: var(--rgb-accent-color)
