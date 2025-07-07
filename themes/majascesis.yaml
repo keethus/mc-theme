@@ -1,4 +1,4 @@
-Majas Cesis Theme:
+MajasCesis Theme:
   modes:
     light:
       # Custom Font
@@ -134,7 +134,7 @@ Majas Cesis Theme:
       rgb-state-input-boolean-color: var(--rgb-accent-color)
       rgb-state-humidifier-color: var(--rgb-accent-color)
       rgb-state-cover-color: var(--rgb-accent-color)
-#
+      
     dark:
       # Custom Font
       primary-font-family: "Inter, sans-serif"
