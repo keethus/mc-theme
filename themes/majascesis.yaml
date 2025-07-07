@@ -52,7 +52,7 @@ MC Theme:
       label-badge-red: rgb(253, 73, 67)
       label-badge-green: rgb(107, 124, 95)
       label-badge-blue: rgb(0, 122, 255)
-      label-badge-yellow: rgb(255, 204, 0)
+      label-badge-yellow: rgb(179,131,86)
       label-badge-gray: rgb(142, 142, 147)
       # Cards
       card-background-color: rgb(243, 243, 244)
@@ -103,7 +103,7 @@ MC Theme:
       input-hover-line-color: var(--accent-color)
       # Error, Warning, Success and Info colors
       error-color: rgb(253, 73, 67)
-      warning-color: rgb(255, 204, 0)
+      warning-color: rgb(179,131,86)
       sucess-color: rgb(107, 124, 95)
       info-color: rgb(0, 122, 255)
       # Progress bar
@@ -189,7 +189,7 @@ MC Theme:
       label-badge-red: rgb(200, 50, 50)
       label-badge-green: rgb(107, 124, 95)
       label-badge-blue: rgb(0, 90, 200)
-      label-badge-yellow: rgb(200, 170, 10)
+      label-badge-yellow: rgb(179,131,86)
       label-badge-gray: rgb(50, 50, 50)
       # Cards
       card-background-color: rgb(30, 30, 31)
@@ -243,7 +243,7 @@ MC Theme:
       input-hover-line-color: var(--accent-color)
       # Error, Warning, Success and Info colors
       error-color: rgb(200, 50, 50)
-      warning-color: rgb(200, 150, 10)
+      warning-color: rgb(179,131,86)
       sucess-color: rgb(107, 124, 95)
       info-color: rgb(0, 90, 200)
       # Progress bar
