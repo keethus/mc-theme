@@ -22,13 +22,13 @@ MC Theme:
       divider-color: rgb(210, 210, 210)
       accent-color: var(--primary-color)
       # Text
-      primary-text-color: rgb(39, 39, 39)
+      primary-text-color: rgb(43,43,43)
       secondary-text-color: rgb(85, 85, 85)
       text-primary-color: var(--primary-text-color)
       disabled-text-color: rgb(85, 85, 85)
       # Sidebar Menu
       sidebar-icon-color: rgb(85, 85, 85)
-      sidebar-text-color: rgb(39, 39, 39)
+      sidebar-text-color: rgb(43,43,43)
       sidebar-background-color: var(--app-header-background-color)
       sidebar-selected-icon-color: var(--primary-color)
       sidebar-selected-text-color: var(--sidebar-selected-icon-color)
@@ -158,14 +158,14 @@ MC Theme:
       divider-color: rgb(15, 15, 16)
       accent-color: var(--primary-color)
       # Text
-      primary-text-color: rgb(200, 200, 200)
+      primary-text-color: rgb(211,199,185)
       secondary-text-color: rgb(140, 140, 140)
       text-primary-color: var(--primary-text-color)
       disabled-text-color: rgb(110, 110, 110)
       
       # Sidebar Menu
       sidebar-icon-color: rgb(140, 140, 140)
-      sidebar-text-color: rgb(200, 200, 200)
+      sidebar-text-color: rgb(211,199,185)
       sidebar-background-color: var(--app-header-background-color)
       sidebar-selected-icon-color: var(--primary-color)
       sidebar-selected-text-color: var(--sidebar-selected-icon-color)
@@ -182,7 +182,7 @@ MC Theme:
       paper-slider-pin-color: var(--paper-slider-active-color)
       paper-slider-active-color: rgb(0, 122, 255)
       paper-slider-secondary-color: var(--paper-slider-active-color)
-      slider-track-color: rgb(40, 40, 40)
+      slider-track-color: rgb(43,43,43)
       # Labels
       label-badge-background-color: var(--secondary-background-color)
       label-badge-text-color: var(--primary-text-color)
@@ -190,7 +190,7 @@ MC Theme:
       label-badge-green: rgb(107, 124, 95)
       label-badge-blue: rgb(0, 90, 200)
       label-badge-yellow: rgb(179,131,86)
-      label-badge-gray: rgb(50, 50, 50)
+      label-badge-gray: rgb(43,43,43)
       # Cards
       card-background-color: rgb(30, 30, 31)
       ha-card-background: rgb(27, 27, 30)
@@ -245,7 +245,7 @@ MC Theme:
       error-color: rgb(200, 50, 50)
       warning-color: rgb(179,131,86)
       sucess-color: rgb(107, 124, 95)
-      info-color: rgb(0, 90, 200)
+      info-color: rgb(255,194,175)
       # Progress bar
       ha-bar-background-color: var(--slider-track-color)
       # Mushroom Custom cards
