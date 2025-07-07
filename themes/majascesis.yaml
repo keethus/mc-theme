@@ -43,7 +43,7 @@ MC Theme:
       paper-slider-knob-color: rgb(191, 191, 192)
       paper-slider-knob-start-color: var(--paper-slider-knob-color)
       paper-slider-pin-color: var(--paper-slider-active-color)
-      paper-slider-active-color: rgb(0, 122, 255)
+      paper-slider-active-color: rgb(107, 124, 95)
       paper-slider-secondary-color: var(--paper-slider-active-color)
       slider-track-color: rgb(203, 203, 205)
       # Labels
@@ -120,11 +120,11 @@ MC Theme:
       mush-rgb-gray: 142, 142, 147
       mush-rgb-disabled: 70, 70, 70
       mush-icon-border-radius: 30%
-      mush-rgb-state-media-player: 0, 122, 255
+      mush-rgb-state-media-player: 107, 124, 95
       #RGB
       rgb-primary-text-color: 0, 0, 0
       rgb-primary-color: 0, 0, 0
-      rgb-accent-color: 0, 122, 255
+      rgb-accent-color: 107, 124, 95
       rgb-state-switch-color: var(--rgb-accent-color)
       rgb-state-light-color: var(--rgb-accent-color)
       rgb-state-fan-color: var(--rgb-accent-color)
@@ -181,7 +181,7 @@ MC Theme:
       paper-slider-knob-color: rgb(100, 100, 100)
       paper-slider-knob-start-color: var(--paper-slider-knob-color)
       paper-slider-pin-color: var(--paper-slider-active-color)
-      paper-slider-active-color: rgb(0, 122, 255)
+      paper-slider-active-color: rgb(107, 124, 95)
       paper-slider-secondary-color: var(--paper-slider-active-color)
       slider-track-color: rgb(43,43,43)
       # Labels
@@ -207,7 +207,7 @@ MC Theme:
       paper-card-background-color: var(--card-background-color)
       # Switches
       switch-checked-button-color: rgb(180, 180, 180)
-      switch-checked-track-color: rgb(18, 80, 180)
+      switch-checked-track-color: rgb(107, 124, 95)
       switch-unchecked-button-color: var(--switch-checked-button-color)
       switch-unchecked-track-color: rgb(10, 10, 10)
       # Toggles
