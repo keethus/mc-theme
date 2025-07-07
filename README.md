@@ -28,7 +28,7 @@ frontend:
 
    ```sh
    mkdir -p themes
-   git clone https://github.com/yourusername/mc-theme.git
+   git clone https://github.com/keethus/mc-theme.git
    cp mc-theme/themes/majascesis.yaml themes/
    ```
 
@@ -36,7 +36,7 @@ frontend:
 
 1. Restart Home Assistant after installation.
 2. Go to your user profile in Home Assistant.
-3. Select the "Majascesis" theme from the theme dropdown.
+3. Select the "MC" theme from the theme dropdown.
 
 ## Troubleshooting
 - If the theme does not appear, ensure you have enabled themes in `configuration.yaml` and placed the file in the correct folder.
