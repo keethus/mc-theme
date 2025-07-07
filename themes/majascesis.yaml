@@ -261,6 +261,8 @@ MC Theme:
       mush-rgb-disabled: 120, 120, 120
       mush-icon-border-radius: 30%
       mush-rgb-state-media-player: 0, 90, 200
+      mush-rgb-state-entity: 107, 124, 95
+      mush-rgb-state-light: 255, 194, 175
       mush-card-primary-font-weight: 500
       mush-card-secondary-font-weight: 500
       mush-card-secondary-font-size: "12px"
@@ -275,6 +277,7 @@ MC Theme:
       rgb-primary-text-color: 251,250,246
       rgb-primary-color: 251,250,246
       rgb-accent-color: 107, 124, 95
+      rgb-state-entity-color: var(--rgb-accent-color)
       rgb-state-switch-color: var(--rgb-accent-color)
       rgb-state-light-color: var(--rgb-accent-color)
       rgb-state-fan-color: var(--rgb-accent-color)
