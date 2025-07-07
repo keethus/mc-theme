@@ -197,7 +197,7 @@ MC Theme:
       ha-card-border-color: none
       ha-card-border-width: 0px
       ha-card-border-radius: 18px  # Kept border radius
-      ha-heading-card-title-font-size: "24px"
+      ha-heading-card-title-font-size: "18px"
       ha-heading-card-title-font-weight: 300
       ha-heading-card-title-line-height: "150%"
       border-radius: 18px  # Global border radius
@@ -267,7 +267,7 @@ MC Theme:
       mush-card-secondary-color: rgb(120, 120, 120)
       mush-subtitle-font-weight: 300
       mush-title-font-weight: 300
-      mush-title-font-size: "28px"
+      mush-title-font-size: "24px"
       mush-subtitle-font-size: "20px"
       mush-chip-background: rgb(23, 23, 25)
       mush-chip-font-weight: 400
