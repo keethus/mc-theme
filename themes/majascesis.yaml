@@ -12,13 +12,13 @@ MC Theme:
       paper-font-headline_-_font-family: var(--primary-font-family)
       paper-font-caption_-_font-family: var(--primary-font-family)
       # Header:
-      app-header-background-color: rgb(243, 245, 244)
+      app-header-background-color: rgb(251,250,246)
       app-header-text-color: var(--primary-text-color)
       app-header-selection-bar-color: var(--primary-color)
       # Main Interface Colors
       primary-color: rgb(107,124,95)
-      primary-background-color: rgb(255, 255, 255)
-      secondary-background-color: rgb(243, 245, 244)
+      primary-background-color: rgb(251,250,246)
+      secondary-background-color: rgb(251,250,246)
       divider-color: rgb(210, 210, 210)
       accent-color: var(--primary-color)
       # Text
@@ -272,8 +272,8 @@ MC Theme:
       mush-chip-background: rgb(23, 23, 25)
       mush-chip-font-weight: 400
       #RGB
-      rgb-primary-text-color: 255, 255, 255
-      rgb-primary-color: 255, 255, 255
+      rgb-primary-text-color: 251,250,246
+      rgb-primary-color: 251,250,246
       rgb-accent-color: 107, 124, 95
       rgb-state-switch-color: var(--rgb-accent-color)
       rgb-state-light-color: var(--rgb-accent-color)
