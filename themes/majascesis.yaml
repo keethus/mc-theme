@@ -16,7 +16,7 @@ MC Theme:
       app-header-text-color: var(--primary-text-color)
       app-header-selection-bar-color: var(--primary-color)
       # Main Interface Colors
-      primary-color: rgb(211,199,185)
+      primary-color: rgb(107,124,95)
       primary-background-color: rgb(255, 255, 255)
       secondary-background-color: rgb(243, 245, 244)
       divider-color: rgb(210, 210, 210)
@@ -152,7 +152,7 @@ MC Theme:
       app-header-text-color: var(--primary-text-color)
       app-header-selection-bar-color: var(--primary-color)
       # Main Interface Colors
-      primary-color: rgb(211,199,185)
+      primary-color: rgb(107,124,95)
       primary-background-color: rgb(20, 20, 21)
       secondary-background-color: rgb(30, 30, 31)
       divider-color: rgb(15, 15, 16)
