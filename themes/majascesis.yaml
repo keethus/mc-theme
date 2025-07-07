@@ -278,7 +278,7 @@ MC Theme:
       rgb-primary-text-color: 251,250,246
       rgb-primary-color: 251,250,246
       rgb-accent-color: 107, 124, 95
-      rgb-state-entity-color: var(--rgb-accent-color)
+      rgb-state-entity-color: 179,131,86
       rgb-state-switch-color: var(--rgb-accent-color)
       rgb-state-light-color: var(--rgb-accent-color)
       rgb-state-fan-color: var(--rgb-accent-color)
@@ -288,3 +288,4 @@ MC Theme:
       rgb-state-input-boolean-color: var(--rgb-accent-color)
       rgb-state-humidifier-color: var(--rgb-accent-color)
       rgb-state-cover-color: var(--rgb-accent-color)
+      rgb-state-climate-heat: 107,124,95
