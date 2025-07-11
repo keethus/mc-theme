@@ -177,6 +177,8 @@ MC Theme:
       state-icon-active-color: var(--paper-item-icon-active-color)
       state-icon-unavailable-color: rgb(60, 60, 60)
       state-light-active-color: "#FFC2AF"
+      state-climate-cool-color: "#6B7C5F"
+      state-switch-active-color: "#B38356"
       # Sliders
       paper-slider-knob-color: rgb(100, 100, 100)
       paper-slider-knob-start-color: var(--paper-slider-knob-color)
